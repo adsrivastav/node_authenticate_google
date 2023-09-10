@@ -17,8 +17,7 @@ Nodejs, Express, MongoDB, Mongoose, Passport, EJS, HTML, CSS, JavaScript, Bootst
 
 ## Live Demo
 https://nodejs-authentication-sdhz.onrender.com
-## Author
-Deepak Kumar
+## Author--   Adarsh Srivastav
 
 ## Folder Structure
 
