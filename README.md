@@ -16,7 +16,7 @@ Nodejs, Express, MongoDB, Mongoose, Passport, EJS, HTML, CSS, JavaScript, Bootst
 4. Visit the app: `http://localhost:10000`
 
 ## Live Demo
-https://nodejs-authentication-sdhz.onrender.com
+https://nodejs-authentication-google.onrender.com/
 ## Author--   Adarsh Srivastav
 
 ## Folder Structure
